@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="592px" height="592px" viewBox="0 0 592 592" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title> circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-opacity="0.0799649004">
+        <g id="circle-radius" transform="translate(1.000000, 1.000000)" stroke="#0084C9" fill="#D8D8D8">
+            <g id="circle">
+                <circle id="Oval-Copy-2" fill-opacity="0.0570935236" cx="295" cy="295" r="295"></circle>
+                <circle id="Oval-Copy-2" fill-opacity="0.07" cx="294.5" cy="293.5" r="252.5"></circle>
+                <circle id="Oval-Copy" fill-opacity="0.08" cx="295" cy="294" r="210"></circle>
+                <circle id="Oval" fill-opacity="0.05" cx="295.5" cy="295.5" r="169.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
